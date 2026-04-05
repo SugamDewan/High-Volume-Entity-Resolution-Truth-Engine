@@ -1,5 +1,10 @@
 # High-Volume Entity Resolution & Truth Engine 🚀
-
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Processing](https://img.shields.io/badge/Processing-DuckDB-blue?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Medallion-brightgreen?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Entity%20Resolution-orange?style=for-the-badge)
 ![Architecture Diagram](./entity-resolution-architecture.png)
 
 ## 📖 Overview
