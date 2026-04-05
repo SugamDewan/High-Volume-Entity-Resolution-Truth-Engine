@@ -1,4 +1,3 @@
-# High-Volume-Entity-Resolution-Truth-Engine
 # High-Volume Entity Resolution & Truth Engine 🚀
 
 ![Architecture Diagram](./entity-resolution-architecture.png)
